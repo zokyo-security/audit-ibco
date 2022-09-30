@@ -26,6 +26,7 @@ module.exports = {
     "Drainable.sol",
     "Pausable.sol",
     "Rates.sol",
-    "testEchdina.sol",
+    "Stage1/TestEchidna.sol",
+    "Stage1/TokenManager2.sol",
   ],
 };
